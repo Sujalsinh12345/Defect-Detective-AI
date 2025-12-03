@@ -1,7 +1,7 @@
 # Defect-Detective-AI
 AI‑powered Product Defect detection web app using Google Gemini Vision and Supabase, with annotated previews, history, and downloadable inspection reports.
 
-[Visit The Production🔗](defect-detective-ai.vercel.app)
+[Visit The Production🔗](https://defect-detective-ai.vercel.app/)
 
 ## 📦 Tech Stack
 - React + TypeScript + Vite  
