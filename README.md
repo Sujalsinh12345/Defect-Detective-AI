@@ -12,11 +12,13 @@ AI‑powered Product Defect detection web app using Google Gemini Vision and Sup
   
 ## 🚀 Features
 - Damage detection (Gemini Vision API)
+- Fetch image from directly url of folder or image 
+- Also supported batch url 
 - Bounding boxes on the uploaded image
-- Product type classification (Door , Window , single-hung, double-hung, etc.)
+- Product and its detailed type classification (Door , Window , single-hung, double-hung, etc.)
 - Clean HTML report (Save as PDF)
 - Image + data stored in Supabase
 - History page to view past reports
   
 ## 📸 Demo Videos
-https://github.com/user-attachments/assets/26278d0c-f9c2-4041-9b51-7be62f0ad5a4
+https://github.com/user-attachments/assets/802b8329-ad51-45d1-aa28-21bb049edd06
